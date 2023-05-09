@@ -2,6 +2,7 @@
 Es un programa creado en Python que lee todos los archivos hobby de la tarea #9831. Genera un diccionario con la palabra clave de quien es cada hobby y la longitud de su respuesta.
 
 Atencion!: Tener la carpeta "Hobbys" descargada y guardada en el escritorio. En caso de tenerlo guardado en otro lugar del sistema modificar las lineas 1 al 7 del codigo, mas especifico la parte de la ruta. Ejemplo: "/home/linti/Escritorio/hobbys/mihobby-santiago.md"
+Seguir el mismo proceso de descarga del programa utilizando la opcion "Raw".
 
 Instrucciones:
 1. Entrar al codigo de Python.
