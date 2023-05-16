@@ -4,6 +4,8 @@ Es un programa creado en Python que lee todos los archivos hobby de la tarea #98
 Atencion!: Tener la carpeta "Hobbys" descargada y guardada en el escritorio. En caso de tenerlo guardado en otro lugar del sistema modificar las lineas 1 al 7 del codigo, mas especifico la parte de la ruta. Ejemplo: "/home/linti/Escritorio/hobbys/mihobby-santiago.md"
 Seguir el mismo proceso de descarga del programa utilizando la opcion "Raw".
 
+ATENCION: En caso de probar en sistemas operativos Windows, escribir una "r" antes de la ubicacion de los archivos .md. Ejemplo: r'/home/linti/Escritorio/hobbys/mihobby-santiago.md'
+
 Instrucciones:
 1. Entrar al codigo de Python.
 2. En la parte superior derecha hacer click en la opcion "Raw".
